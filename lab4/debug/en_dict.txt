@@ -1,0 +1,8 @@
+sasha   n m
+woman   n f
+goes    v pre
+by      pre
+highway n m
+the     art
+street  n f
+broad   adj
