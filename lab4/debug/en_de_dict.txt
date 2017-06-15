@@ -1,7 +1,0 @@
-sasha|sasha
-woman|frau
-goes|geht
-by|auf
-highway|autobahn
-street|strasse
-broad|breiten
