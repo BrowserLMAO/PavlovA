@@ -1,0 +1,10 @@
+sasha    n m
+frau     n f
+geht     v pre
+auf      pre
+autobahn n m
+der      art
+die      art
+das      art
+strasse  n f
+breiten  adj
