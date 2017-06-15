@@ -1,7 +1,0 @@
-sasha|саша
-woman|женщина
-goes|идет
-by|по
-highway|шоссе
-street|улице
-broad|широкой
