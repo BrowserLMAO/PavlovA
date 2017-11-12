@@ -4,7 +4,10 @@ CONFIG -= app_bundle
 CONFIG -= qt
 
 SOURCES += main.cpp \
-    tlife.cpp
+    graph.cpp \
+    chess.cpp
 
 HEADERS += \
-    tlife.h
+    graph.h \
+    chess.h
+
